@@ -1,0 +1,16 @@
+*{ margin:0; padding:0;}
+.login_bg{background:#8fc31f; height:329px;}
+.login_div{background:url(../img/common/login_bg.png) no-repeat; width:952px; height:620px; margin:0 auto; position:absolute; z-index:99; top:0; left:15%}
+.loginBox{margin-left:500px;}
+.loginBox a{ font-size:12px; color:#999999; text-decoration:none}
+.loginBox a:hover{ color:#8fc31f; text-decoration:underline;}
+.inputUser{ width:300px; height:32px; line-height:32px; color:#333; padding:0 3px; background:#f5f5f5 url(../img/common/loginbox_bg.png) right 0 no-repeat; border:#cdcdcd 2px solid; border-radius:5px; }
+.inputUser:hover,.inputUser:focus{ background:#fff url(../img/common/loginbox_bg.png) right -35px no-repeat; border:#8fc31f 2px solid;}
+.inputPass{ width:300px; height:32px; line-height:32px; color:#333; padding:0 3px; background:#f5f5f5 url(../img/common/loginbox_bg.png) right -70px no-repeat; border:#cdcdcd 2px solid;margin:15px 0; border-radius:5px;}
+.inputPass:hover,.inputPass:focus{background:#fff url(../img/common/loginbox_bg.png) right -105px no-repeat; border:#8fc31f 2px solid;}
+.login_btn{ padding:0 20px; height:34px; background-color:#8fc31f; color:#fff; font-size:16px; border:0;}
+#only_for_chrome{position: fixed;_position: absolute; height: 100%; _height: 1200px; width: 100%; z-index: 100000; left: 0; top: 0; background-color: #000; text-align: center; font-size: 30px; color: #fb0000; opacity: 0.8; filter: alpha(opacity=80); }
+#only_for_chrome .chrome-tip{margin-top: 200px;}
+#only_for_chrome .chrome-link{margin-top: 10px;}
+#only_for_chrome .chrome-link a{color: #fff;text-decoration: none;}
+#only_for_chrome .chrome-link a:hover{color: #009b4d;}

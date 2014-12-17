@@ -1,0 +1,668 @@
+2014-12-15 10:45:11,123 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 10:45:11,280 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 10:45:11,357 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 10:45:11 CST 2014]; root of context hierarchy
+2014-12-15 10:45:11,437 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@774c8d61: defining beans []; root of factory hierarchy
+2014-12-15 10:45:11,440 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 158 ms
+2014-12-15 10:45:11,578 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 10:45:11,597 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 10:45:11 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 10:45:11,600 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 10:45:11,724 INFO [org.springframework.context.annotation.ClassPathBeanDefinitionScanner] - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2014-12-15 10:45:11,727 INFO [org.springframework.context.annotation.ClassPathBeanDefinitionScanner] - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2014-12-15 10:45:11,828 INFO [org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor] - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2014-12-15 10:45:11,833 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@27ba533: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@774c8d61
+2014-12-15 10:45:11,963 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 10:45:12,474 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 895 ms
+2014-12-15 10:46:11,129 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26413k  cpuUsed=1.0 threadCount=14
+2014-12-15 10:47:11,129 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26782k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:48:11,131 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27136k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:49:11,131 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27447k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:50:11,132 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27714k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:50:28,541 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 10:50:28,653 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 10:50:28,740 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 10:50:28 CST 2014]; root of context hierarchy
+2014-12-15 10:50:28,811 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7f219df4: defining beans []; root of factory hierarchy
+2014-12-15 10:50:28,813 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 158 ms
+2014-12-15 10:50:28,931 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 10:50:28,936 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 10:50:28 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 10:50:28,938 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 10:50:29,252 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@21a26e2c: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@7f219df4
+2014-12-15 10:50:29,376 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 10:50:29,415 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.user.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 10:50:29,416 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.user.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 10:50:29,416 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.user.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 10:50:29,727 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 796 ms
+2014-12-15 10:51:14,725 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 10:51:14,863 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 10:51:14,976 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 10:51:14 CST 2014]; root of context hierarchy
+2014-12-15 10:51:15,072 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@48cff89c: defining beans []; root of factory hierarchy
+2014-12-15 10:51:15,075 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 209 ms
+2014-12-15 10:51:15,199 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 10:51:15,205 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 10:51:15 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 10:51:15,207 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 10:51:15,511 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6defe989: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@48cff89c
+2014-12-15 10:51:15,639 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 10:51:15,683 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.user.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 10:51:15,683 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.user.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 10:51:15,683 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.user.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 10:51:16,127 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 928 ms
+2014-12-15 10:52:14,734 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19026k  cpuUsed=1.0 threadCount=14
+2014-12-15 10:53:14,731 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19074k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:54:14,733 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19076k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:55:14,733 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19078k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:56:14,733 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19081k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:57:14,734 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19083k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:58:14,735 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19086k  cpuUsed=0.0 threadCount=14
+2014-12-15 10:59:14,736 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19088k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:00:14,737 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19091k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:01:14,738 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19093k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:02:14,738 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19095k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:03:14,739 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19143k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:04:14,740 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19145k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:05:14,740 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19148k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:06:14,742 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19150k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:07:14,742 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19153k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:08:14,743 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19155k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:09:14,744 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19497k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:10:14,744 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19499k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:11:14,745 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19502k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:12:14,746 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=19504k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:13:14,747 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20218k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:14:14,747 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20220k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:15:14,748 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20223k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:16:14,749 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20225k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:17:14,751 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20228k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:18:14,751 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20230k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:19:14,751 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20232k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:20:14,753 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20235k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:21:14,753 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20237k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:22:14,754 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20240k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:23:14,755 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20287k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:24:14,756 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20438k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:25:14,756 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20440k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:26:14,757 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20443k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:27:14,758 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20445k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:28:14,758 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20447k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:29:14,760 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20450k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:30:14,760 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20452k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:31:14,761 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20455k  cpuUsed=0.0 threadCount=14
+2014-12-15 11:32:14,762 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=20457k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:16:54,854 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:16:55,154 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:16:55,472 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:16:55 CST 2014]; root of context hierarchy
+2014-12-15 14:16:55,641 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6b8099d3: defining beans []; root of factory hierarchy
+2014-12-15 14:16:55,644 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 446 ms
+2014-12-15 14:16:55,860 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 14:16:55,872 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 14:16:55 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:16:55,894 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:16:56,463 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@55a7e5ae: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@6b8099d3
+2014-12-15 14:16:56,872 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:16:56,922 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 14:16:56,922 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 14:16:56,923 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 14:16:57,378 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 1518 ms
+2014-12-15 14:17:50,363 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:17:52,742 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:17:54,878 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=23064k  cpuUsed=1.0 threadCount=14
+2014-12-15 14:18:11,493 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:18:11,611 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:18:11,703 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:18:11 CST 2014]; root of context hierarchy
+2014-12-15 14:18:11,778 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6f950feb: defining beans []; root of factory hierarchy
+2014-12-15 14:18:11,781 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 168 ms
+2014-12-15 14:18:11,904 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 14:18:11,910 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 14:18:11 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:18:11,913 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:18:12,231 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@64db0f23: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@6f950feb
+2014-12-15 14:18:12,362 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:18:12,409 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 14:18:12,410 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 14:18:12,410 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 14:18:12,748 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 844 ms
+2014-12-15 14:18:16,818 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:17,662 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:18,674 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:19,180 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:19,491 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:19,821 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:20,101 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:18:46,159 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:18:46,280 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:18:46,371 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:18:46 CST 2014]; root of context hierarchy
+2014-12-15 14:18:46,451 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@b102b93: defining beans []; root of factory hierarchy
+2014-12-15 14:18:46,453 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 171 ms
+2014-12-15 14:18:46,571 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 14:18:46,579 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 14:18:46 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:18:46,582 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:18:46,862 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2297f1ff: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@b102b93
+2014-12-15 14:18:46,991 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:18:47,046 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 14:18:47,047 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 14:18:47,047 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 14:18:47,396 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 824 ms
+2014-12-15 14:19:46,164 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38566k  cpuUsed=1.0 threadCount=14
+2014-12-15 14:20:46,165 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38718k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:21:46,165 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38720k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:22:31,285 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:22:31,405 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:22:31,496 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:22:31 CST 2014]; root of context hierarchy
+2014-12-15 14:22:31,578 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2fb1e76a: defining beans []; root of factory hierarchy
+2014-12-15 14:22:31,581 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 174 ms
+2014-12-15 14:22:31,704 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 14:22:31,709 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 14:22:31 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:22:31,712 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:22:32,005 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1b39473b: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,demoController,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#1,org.springframework.format.support.FormattingConversionServiceFactoryBean#1,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#1,org.springframework.web.servlet.handler.MappedInterceptor#1,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#1,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#1,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#1,org.springframework.web.servlet.view.InternalResourceViewResolver#0,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@2fb1e76a
+2014-12-15 14:22:32,149 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 14:22:32,149 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 14:22:32,150 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 14:22:32,512 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:22:32,515 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 14:22:32,516 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 14:22:32,516 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 14:22:32,558 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 854 ms
+2014-12-15 14:22:39,628 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:40,569 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:41,205 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:41,643 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:41,852 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,349 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,384 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,416 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,460 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,501 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,513 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,543 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,576 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,609 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,643 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,676 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,709 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,742 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,774 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,808 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,842 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,874 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,907 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,940 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:42,974 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,005 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,041 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,073 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,103 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,137 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,171 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,205 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,235 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,269 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:43,728 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,225 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,260 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,290 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,324 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,356 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,390 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,424 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,455 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,488 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,521 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,556 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,589 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,622 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,655 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,690 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,723 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,757 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,793 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,820 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,853 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,886 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,918 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,954 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:44,985 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,020 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,055 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,085 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,118 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,153 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,185 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,220 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,251 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,284 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,314 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,348 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,381 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,412 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,445 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,480 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:22:45,514 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:23:31,290 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27640k  cpuUsed=1.0 threadCount=14
+2014-12-15 14:24:31,291 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27643k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:25:31,291 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27690k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:26:31,292 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27693k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:27:31,293 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28034k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:28:31,293 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28037k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:29:31,295 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28039k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:30:31,295 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28192k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:31:31,296 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28194k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:32:31,297 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=28196k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:41:21,653 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:41:21,774 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:41:21,877 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:41:21 CST 2014]; root of context hierarchy
+2014-12-15 14:41:21,953 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@7389db56: defining beans []; root of factory hierarchy
+2014-12-15 14:41:21,955 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 179 ms
+2014-12-15 14:41:22,096 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
+2014-12-15 14:41:22,104 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 14:41:22 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:41:22,108 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:41:23,778 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@3bce7311: defining beans [demoController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@7389db56
+2014-12-15 14:41:23,849 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:41:24,218 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization completed in 2121 ms
+2014-12-15 14:42:21,657 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36495k  cpuUsed=1.0 threadCount=14
+2014-12-15 14:43:21,657 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36498k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:44:21,659 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36500k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:45:21,659 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36502k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:45:25,378 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:25,985 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:26,350 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:26,560 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:26,786 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:27,051 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:27,294 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:45:27,814 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMVCServlet'
+2014-12-15 14:46:21,660 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38110k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:46:58,131 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:46:58,253 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:46:58,343 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:46:58 CST 2014]; root of context hierarchy
+2014-12-15 14:46:58,426 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5f9f265c: defining beans []; root of factory hierarchy
+2014-12-15 14:46:58,429 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 174 ms
+2014-12-15 14:46:58,553 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 14:46:58,558 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 14:46:58 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:46:58,560 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from class path resource [spring-mvc.xml]
+2014-12-15 14:46:58,561 ERROR [org.springframework.web.servlet.DispatcherServlet] - Context initialization failed
+org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from class path resource [spring-mvc.xml]; nested exception is java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:341)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:530)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:444)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:631)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:588)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:645)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:508)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:449)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:133)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:241)
+	at org.mortbay.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:440)
+	at org.mortbay.jetty.servlet.ServletHolder.doStart(ServletHolder.java:263)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.servlet.ServletHandler.initialize(ServletHandler.java:736)
+	at org.mortbay.jetty.servlet.Context.startContext(Context.java:140)
+	at org.mortbay.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1282)
+	at org.mortbay.jetty.handler.ContextHandler.doStart(ContextHandler.java:518)
+	at org.mortbay.jetty.webapp.WebAppContext.doStart(WebAppContext.java:499)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+	at org.mortbay.jetty.Server.doStart(Server.java:224)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at runjettyrun.Bootstrap.main(Bootstrap.java:97)
+Caused by: java.io.FileNotFoundException: class path resource [spring-mvc.xml] cannot be opened because it does not exist
+	at org.springframework.core.io.ClassPathResource.getInputStream(ClassPathResource.java:157)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:328)
+	... 29 more
+2014-12-15 14:47:58,096 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 14:47:58,219 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 14:47:58,309 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 14:47:58 CST 2014]; root of context hierarchy
+2014-12-15 14:47:58,389 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@61db0259: defining beans []; root of factory hierarchy
+2014-12-15 14:47:58,391 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 170 ms
+2014-12-15 14:47:58,512 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 14:47:58,520 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 14:47:58 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 14:47:58,523 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 14:48:00,275 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@1d357d89: defining beans [demoController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@61db0259
+2014-12-15 14:48:00,342 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 14:48:00,654 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization completed in 2142 ms
+2014-12-15 14:48:58,102 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36047k  cpuUsed=1.0 threadCount=14
+2014-12-15 14:49:58,102 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=36049k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:50:19,861 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:20,581 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:21,009 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:21,449 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:21,726 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:21,983 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:22,207 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:22,388 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:23,290 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:24,027 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:24,570 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 14:50:58,102 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37735k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:51:58,103 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37738k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:52:58,104 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37740k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:53:58,105 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37743k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:54:58,106 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37745k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:55:58,107 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37747k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:56:58,107 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37750k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:57:58,108 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37752k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:58:58,109 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37755k  cpuUsed=0.0 threadCount=14
+2014-12-15 14:59:58,109 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37757k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:00:55,916 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:00:58,111 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37893k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:01:58,111 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37895k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:02:58,112 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37898k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:03:58,113 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37900k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:04:58,113 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37971k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:05:58,114 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37973k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:06:58,115 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37976k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:07:58,116 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37978k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:08:58,116 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=37980k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:09:58,118 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38649k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:10:58,118 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38651k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:11:58,118 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38654k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:12:58,120 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38656k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:13:58,120 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38659k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:14:58,122 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=38661k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:15:06,269 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 15:15:06,403 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 15:15:06,504 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 15:15:06 CST 2014]; root of context hierarchy
+2014-12-15 15:15:06,592 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@61db0259: defining beans []; root of factory hierarchy
+2014-12-15 15:15:06,595 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 190 ms
+2014-12-15 15:15:06,779 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 15:15:06,788 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 15:15:06 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 15:15:06,791 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/servlet-context.xml]
+2014-12-15 15:15:06,793 ERROR [org.springframework.web.servlet.DispatcherServlet] - Context initialization failed
+org.springframework.beans.factory.BeanDefinitionStoreException: IOException parsing XML document from ServletContext resource [/WEB-INF/servlet-context.xml]; nested exception is java.io.FileNotFoundException: Could not open ServletContext resource [/WEB-INF/servlet-context.xml]
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:341)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:174)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:209)
+	at org.springframework.beans.factory.support.AbstractBeanDefinitionReader.loadBeanDefinitions(AbstractBeanDefinitionReader.java:180)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:125)
+	at org.springframework.web.context.support.XmlWebApplicationContext.loadBeanDefinitions(XmlWebApplicationContext.java:94)
+	at org.springframework.context.support.AbstractRefreshableApplicationContext.refreshBeanFactory(AbstractRefreshableApplicationContext.java:131)
+	at org.springframework.context.support.AbstractApplicationContext.obtainFreshBeanFactory(AbstractApplicationContext.java:530)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:444)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:631)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:588)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:645)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:508)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:449)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:133)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:241)
+	at org.mortbay.jetty.servlet.ServletHolder.initServlet(ServletHolder.java:440)
+	at org.mortbay.jetty.servlet.ServletHolder.doStart(ServletHolder.java:263)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.servlet.ServletHandler.initialize(ServletHandler.java:736)
+	at org.mortbay.jetty.servlet.Context.startContext(Context.java:140)
+	at org.mortbay.jetty.webapp.WebAppContext.startContext(WebAppContext.java:1282)
+	at org.mortbay.jetty.handler.ContextHandler.doStart(ContextHandler.java:518)
+	at org.mortbay.jetty.webapp.WebAppContext.doStart(WebAppContext.java:499)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at org.mortbay.jetty.handler.HandlerWrapper.doStart(HandlerWrapper.java:130)
+	at org.mortbay.jetty.Server.doStart(Server.java:224)
+	at org.mortbay.component.AbstractLifeCycle.start(AbstractLifeCycle.java:50)
+	at runjettyrun.Bootstrap.main(Bootstrap.java:97)
+Caused by: java.io.FileNotFoundException: Could not open ServletContext resource [/WEB-INF/servlet-context.xml]
+	at org.springframework.web.context.support.ServletContextResource.getInputStream(ServletContextResource.java:140)
+	at org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:328)
+	... 29 more
+2014-12-15 15:16:06,274 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27111k  cpuUsed=1.0 threadCount=14
+2014-12-15 15:16:40,066 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 15:16:40,191 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 15:16:40,286 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 15:16:40 CST 2014]; root of context hierarchy
+2014-12-15 15:16:40,366 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@b102b93: defining beans []; root of factory hierarchy
+2014-12-15 15:16:40,368 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 175 ms
+2014-12-15 15:16:40,511 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 15:16:40,519 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 15:16:40 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 15:16:40,522 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 15:16:44,614 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@545b1bd: defining beans [demoController,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@b102b93
+2014-12-15 15:16:44,682 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 15:16:45,012 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization completed in 4501 ms
+2014-12-15 15:16:50,534 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,257 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,749 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,794 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,822 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,848 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,881 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,912 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,947 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:51,989 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,016 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,044 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,078 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,111 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,143 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:52,176 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,288 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,793 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,822 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,854 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,886 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,919 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,952 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:53,986 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,021 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,052 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,085 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,118 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,151 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,184 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,221 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,252 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,283 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,316 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,356 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,383 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,416 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,449 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,480 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,513 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,547 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,580 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,613 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,645 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,679 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,711 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,745 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,777 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,812 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,844 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,876 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,909 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,942 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:54,975 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,028 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,044 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,076 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,108 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,140 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,174 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,206 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,240 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,273 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,306 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:55,661 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,167 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,197 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,223 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,255 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,287 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,320 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,354 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,386 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,420 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,452 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,486 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,520 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,553 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,586 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,619 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,652 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,687 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,725 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,757 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,784 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,817 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,849 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,884 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,915 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:16:56,948 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:17:40,070 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=40100k  cpuUsed=1.0 threadCount=14
+2014-12-15 15:17:54,197 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 15:17:54,320 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 15:17:54,412 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 15:17:54 CST 2014]; root of context hierarchy
+2014-12-15 15:17:54,485 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4dcaef1c: defining beans []; root of factory hierarchy
+2014-12-15 15:17:54,488 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 165 ms
+2014-12-15 15:17:54,629 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 15:17:54,635 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 15:17:54 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 15:17:54,638 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 15:17:59,931 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@4d738073: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@4dcaef1c
+2014-12-15 15:17:59,993 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 15:18:00,333 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization completed in 5704 ms
+2014-12-15 15:18:11,654 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,208 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,706 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,749 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,773 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,799 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,835 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,864 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,897 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,931 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,963 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:12,996 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,034 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,073 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,101 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,128 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,161 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,195 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,227 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,262 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,295 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,327 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,360 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,393 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,426 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,459 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,492 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,525 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,558 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,592 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,628 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,660 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,693 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,723 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,766 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,791 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,823 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,856 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,888 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,924 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,953 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:13,986 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:14,022 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:14,054 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:14,087 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:18:54,201 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=40036k  cpuUsed=1.0 threadCount=14
+2014-12-15 15:19:58,788 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 15:19:58,904 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 15:19:58,992 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 15:19:58 CST 2014]; root of context hierarchy
+2014-12-15 15:19:59,093 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5f9f265c: defining beans []; root of factory hierarchy
+2014-12-15 15:19:59,095 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 189 ms
+2014-12-15 15:19:59,238 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 15:19:59,243 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 15:19:59 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 15:19:59,245 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 15:20:01,555 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@50ee6a7a: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@5f9f265c
+2014-12-15 15:20:01,660 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 15:20:01,660 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 15:20:01,661 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 15:20:02,009 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 15:20:02,081 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization completed in 2843 ms
+2014-12-15 15:20:07,114 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
+2014-12-15 15:20:07,232 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
+2014-12-15 15:20:07,323 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 15:20:07 CST 2014]; root of context hierarchy
+2014-12-15 15:20:07,399 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@498f930f: defining beans []; root of factory hierarchy
+2014-12-15 15:20:07,402 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 168 ms
+2014-12-15 15:20:07,542 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization started
+2014-12-15 15:20:07,547 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMvc-servlet': startup date [Mon Dec 15 15:20:07 CST 2014]; parent: Root WebApplicationContext
+2014-12-15 15:20:07,550 INFO [org.springframework.beans.factory.xml.XmlBeanDefinitionReader] - Loading XML bean definitions from ServletContext resource [/WEB-INF/spring-servlet.xml]
+2014-12-15 15:20:09,614 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@61332207: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping#0,org.springframework.format.support.FormattingConversionServiceFactoryBean#0,org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter#0,org.springframework.web.servlet.handler.MappedInterceptor#0,org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver#0,org.springframework.web.servlet.mvc.annotation.ResponseStatusExceptionResolver#0,org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver#0,org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping,org.springframework.web.servlet.mvc.HttpRequestHandlerAdapter,org.springframework.web.servlet.mvc.SimpleControllerHandlerAdapter,demoController,org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0,org.springframework.web.servlet.handler.SimpleUrlHandlerMapping#0,mappingJacksonHttpMessageConverter,org.springframework.web.servlet.mvc.annotation.AnnotationMethodHandlerAdapter#0,org.springframework.web.servlet.view.InternalResourceViewResolver#0,multipartResolver,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor]; parent: org.springframework.beans.factory.support.DefaultListableBeanFactory@498f930f
+2014-12-15 15:20:09,710 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/list],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.list(javax.servlet.http.HttpServletRequest,org.springframework.ui.ModelMap) throws java.lang.Exception
+2014-12-15 15:20:09,711 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/login],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public java.lang.String com.demo.web.controller.DemoController.testLogin(javax.servlet.http.HttpServletRequest)
+2014-12-15 15:20:09,711 INFO [org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping] - Mapped "{[/test/delVote],methods=[],params=[],headers=[],consumes=[],produces=[],custom=[]}" onto public com.demo.util.AjaxJson com.demo.web.controller.DemoController.delVote(org.springframework.ui.Model,java.lang.Integer)
+2014-12-15 15:20:10,066 INFO [org.springframework.web.servlet.handler.SimpleUrlHandlerMapping] - Mapped URL path [/res/**] onto handler 'org.springframework.web.servlet.resource.ResourceHttpRequestHandler#0'
+2014-12-15 15:20:10,130 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMvc': initialization completed in 2588 ms
+2014-12-15 15:20:15,036 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:15,587 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,076 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,119 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,143 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,177 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,208 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,241 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,274 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,307 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,340 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,373 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,406 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,440 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,472 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,505 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,539 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,572 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,605 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,638 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,672 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,704 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,736 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:16,770 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,137 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,636 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,670 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,702 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,735 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,768 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,806 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,835 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,866 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,899 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,932 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,965 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:17,999 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:18,033 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:18,065 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:18,098 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:20:18,131 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:21:07,120 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26755k  cpuUsed=1.0 threadCount=14
+2014-12-15 15:22:07,120 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26802k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:23:07,122 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26805k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:24:07,122 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26807k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:25:07,123 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26809k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:26:07,123 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26812k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:27:07,124 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26814k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:28:07,125 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26817k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:29:07,126 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26819k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:30:07,127 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26821k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:31:07,127 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26824k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:32:07,129 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26871k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:33:07,129 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26874k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:34:07,130 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=26876k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:35:07,131 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27027k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:36:07,131 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27029k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:37:07,132 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27032k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:38:07,133 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27034k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:39:07,134 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27037k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:40:07,135 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27039k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:40:22,063 WARN [org.springframework.web.servlet.PageNotFound] - No mapping found for HTTP request with URI [/smvc/] in DispatcherServlet with name 'springMvc'
+2014-12-15 15:41:07,135 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27220k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:42:07,136 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27888k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:43:07,136 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27891k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:44:07,138 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27893k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:45:07,138 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27895k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:46:07,140 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27898k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:47:07,140 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27900k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:48:07,140 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27903k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:49:07,142 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27950k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:50:07,142 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27952k  cpuUsed=0.0 threadCount=14
+2014-12-15 15:51:07,143 INFO [org.log4mongo.contrib.JvmMonitor] - memoryUsed=27955k  cpuUsed=0.0 threadCount=14

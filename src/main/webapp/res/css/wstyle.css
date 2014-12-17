@@ -1,0 +1,168 @@
+﻿@charset "utf-8";
+/*normal*/
+*{margin:0;padding:0;}
+img, fieldset, textarea{border:0;}
+input, label, select, option, textarea, button, fieldset, legend{font:14px/28px "微软雅黑","宋体", Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif;}
+input[type="reset"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner, input[type="submit"]::-moz-focus-inner, input[type="file"] > input[type="button"]::-moz-focus-inner {border:none;padding:0;}
+input[type="radio"], input[type="checkbox"]{ vertical-align:-2px; margin-right:5px;}
+table{ border-collapse:collapse; border-spacing:0; font:13px/18px "宋体", Verdana, Simsun, Helvetica, Arial, sans-serif;}
+table td{ word-wrap:break-word;}
+ul, ol{list-style:none;}
+em, q{font-style:normal;}
+body{font:14px/28px "微软雅黑","宋体", Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif; color:#666; height:100%;}
+a, a:hover {text-decoration: none;}
+
+/*common*/
+.clearfix:after{display:block; clear:both; content:""; visibility:hidden; height:0;}
+.clearfix{zoom:1;}
+.fl {float: left;}
+.fr {float: right;}
+.tcc {text-align: center;}
+.tl {text-align: left;}
+html {background: #f0f0f0; height: 100%}
+.wrapper { width: 100%; background-color: #fff; overflow: hidden; min-height: 700px; position: relative;}
+.right-content { overflow: hidden;  background-color: #fff; min-width: 1150px; _width:expression(document.body.clientWidth < 1150 ? "1150px" : "auto");}
+
+
+/*头部*/
+#hd {
+    background: url(../img/admin/hd-bg.png) repeat-x;
+	width: 100%;
+	min-width: 880px;
+	 _width:expression(document.body.clientWidth < 880 ? "880px" : "auto");
+	height: 81px;
+}
+#hd .hd-title {
+    color: #fffefd;
+	font-size: 24px;
+	margin: 13px 0 0 15px;
+}
+#hd .hd-title img{
+    vertical-align: middle;
+    margin-right: 10px;
+}
+#hd .user-box {
+	width: 567px;
+	height: 81px;
+}
+#hd .user-info {
+    overflow: hidden;
+	text-align: right;
+	margin-top: 25px;
+	padding-right: 25px;
+}
+#hd .user-box  em.user-icon {
+	width: 16px;
+	height: 17px;
+	display: inline-block; 
+    background: url(../img/admin/login-user2.png) no-repeat;
+	_filter: progid:DXImageTransform.Microsoft.AlphaImageLoader (src='../img/admin/login-user2.png'); /* IE6 */
+    _background-image: none; /* IE6 */
+	vertical-align: middle;
+	*margin: 3px 3px 0 0;
+}
+#hd .user-box span, #hd .user-box  em, #hd .user-box a {
+    color: #fff;
+}
+/*底部*/
+#ft {
+    border-top: 1px solid #ccc;
+	color: #666;
+}
+#ft p {
+    text-align: center;
+	line-height: 34px;
+}
+/*左边导航*/
+#left-nav {
+    width: 199px;
+	border-right: 1px solid #ccc;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+#left-nav .nav-box {
+    border-top: 1px solid #ccc;
+}
+#left-nav .nav-fst {
+    position: relative;
+    height: 38px;
+	line-height: 38px;
+	border-top: 1px solid #fbfbfb;
+	cursor: pointer;
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.1);
+}
+#left-nav .icon {
+    width: 20px;
+	height: 20px;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 10px;
+}
+#left-nav .icon img{
+    vertical-align: top;
+}
+
+#left-nav .arrow {
+    width: 11px;
+	height: 8px;
+	display: inline-block; 
+	background: url(../img/admin/arrow2.png) no-repeat;
+	vertical-align: middle;
+	margin-top: -6px;
+}
+#left-nav .arrow.statu2 {
+    background: url(../img/admin/arrow.png) no-repeat;
+	margin-top: 0;
+}
+#left-nav .nav-title {
+	display: inline-block;
+	width: 108px;
+}
+#left-nav .nav-sed li {
+    background-color: #EDEDED;
+}
+#left-nav .nav-sed a {
+    color: #666;
+	width: 100%;
+	height: 32px;
+	line-height: 32px;
+	display: inline-block;
+	padding-left: 55px;
+}
+#left-nav .nav-sed a.cur {
+    color: #fff;
+	background: url(../img/admin/nav-link.png) repeat-x;
+}
+#left-nav .nav-sed a.hover{
+    background-color: #ddd;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

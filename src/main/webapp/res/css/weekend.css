@@ -1,0 +1,109 @@
+.weekend-add .wk-addr-rec {
+  left: 0;
+  top: 31px;
+  max-height: 200px;
+  min-width: 220px;
+  overflow-y: scroll;
+  z-index: 100;
+  background-color: #fff;
+  border: 1px solid #ccc; }
+  .weekend-add .wk-addr-rec li {
+    line-height: 26px;
+    border-bottom: 1px solid #ccc;
+    padding: 0 15px;
+    cursor: pointer; }
+    .weekend-add .wk-addr-rec li:hover {
+      background-color: #eee; }
+.weekend-add .wk-cat-wrap {
+  left: 180px;
+  top: 31px;
+  max-width: 320px;
+  z-index: 99;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 5px 15px 10px 15px; }
+  .weekend-add .wk-cat-wrap ul li {
+    width: 95px;
+    line-height: 25px;
+    float: left;
+    height: 22px;
+    overflow: hidden;
+  }
+.wk-pic-wrap {
+  min-width: 150px;
+  min-height: 120px;
+  max-width: 812px; }
+.wk-pic-wrap .wk-pic-list li {
+    float: left;
+    border: 1px solid #ccc;
+    display: table-cell;
+    margin: 5px;
+    position: relative;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    line-height: 115px; }
+    .wk-pic-wrap .wk-pic-list li img {
+      max-width: 100%;
+      max-height: 100%; }
+    .wk-pic-wrap .wk-pic-list li:hover .wk-pic-close {
+      display: block; }
+    .wk-pic-wrap .wk-pic-list li .wk-cover {
+      margin: 0;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      font-size: 14px;
+      line-height: 26px;
+      color: #fff;
+      text-align: center;
+      background: rgba(0, 0, 0, 0.7); }
+    .wk-pic-wrap .wk-pic-list li .wk-pic-close {
+      position: absolute;
+      font-size: 20px;
+      right: 0;
+      top: 0;
+      line-height: 20px;
+      padding: 0 5px;
+      color: #fff;
+      cursor: pointer;
+      border: 1px solid #fff;
+      background: #cb0000;
+      opacity: 1;
+      display: none; }
+#wk_upfile {
+  width: 80px;
+  height: 25px;
+  opacity: 0; }
+.weekend-add #qqmap {
+  width: 800px;
+  height: 500px; }
+
+.tag-add-wrap .btn {
+  width: 100px;
+  height: 40px;
+  font-size: 14px; }
+
+.wk-tag-pic img {
+  width: 122px;
+  height: 122px;
+  border: 1px solid #ccc; }
+
+.wk-tag-btn {
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  border-radius: 4px;
+  background-color: #ed9b5f; }
+  .wk-tag-btn:hover {
+    box-shadow: 0 0 3px 1px #ccc; }
+  .wk-tag-btn input[type="file"] {
+    left: 0;
+    top: 0;
+    width: 100px;
+    height: 40px;
+    opacity: 0; }
