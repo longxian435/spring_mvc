@@ -1,7 +1,7 @@
 2014-12-15 10:45:11,123 INFO [org.log4mongo.contrib.JvmMonitor] - jvm monitor start  ...
 2014-12-15 10:45:11,280 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization started
 2014-12-15 10:45:11,357 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing Root WebApplicationContext: startup date [Mon Dec 15 10:45:11 CST 2014]; root of context hierarchy
-2014-12-15 10:45:11,437 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@774c8d61: defining beans []; root of factory hierarchy
+2014-12-15 10l龙虾嚞哦来咯咯拍拍拍拍拍老婆老婆IP:45:11,437 INFO [org.springframework.beans.factory.support.DefaultListableBeanFactory] - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@774c8d61: defining beans []; root of factory hierarchy
 2014-12-15 10:45:11,440 INFO [org.springframework.web.context.ContextLoader] - Root WebApplicationContext: initialization completed in 158 ms
 2014-12-15 10:45:11,578 INFO [org.springframework.web.servlet.DispatcherServlet] - FrameworkServlet 'springMVCServlet': initialization started
 2014-12-15 10:45:11,597 INFO [org.springframework.web.context.support.XmlWebApplicationContext] - Refreshing WebApplicationContext for namespace 'springMVCServlet-servlet': startup date [Mon Dec 15 10:45:11 CST 2014]; parent: Root WebApplicationContext
